@@ -9,4 +9,4 @@ When I'm not deep in Combine or fine-tuning UI transitions in SwiftUI, you’ll 
 - 🎮 I’m currently building an RPG (yes, the kind with stats and turn-based battles). 
 - 🚀 I recently launched [Qrty](https://apps.apple.com/us/app/qrty/id6744279795) on the App Store, a slick little QR code generator designed for effortless networking.
 - 📫 How to reach me: hey [@] ak68a.co
-- ⚡ Fun fact: I recently once a feature at 3 AM from a Walmart parking lot after some high speed testing — still not sure if the coffee or adrenaline deserves the credit. 
+- ⚡ Fun fact: I once pushed a feature at 3 AM from a Walmart parking lot after some high-speed testing — still not sure if the coffee or adrenaline deserves the credit. 
