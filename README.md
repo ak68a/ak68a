@@ -6,7 +6,7 @@ My passion lies in crafting intuitive, high-performance iOS apps and backends th
 
 When I'm not deep in the API of things or fine-tuning UI transitions in SwiftUI, you’ll probably find me obsessing over clean architecture patterns or testing async flows in the wild. I’m all in on fintech — from crafting modern, SwiftUI-first architecture to designing data-intensive applications that move money fast. 
 
-- 💸 I’m currently building a fintech system in GoLang along with an iOS SDK.
+- 💸 I’m currently building a fintech system in Go along with an iOS SDK.
 - 🧪 Also experimenting with agentic smart contract processing on the [Radius Platform](https://radiustech.xyz)
 - 🚀 I recently launched [Qrty](https://apps.apple.com/us/app/qrty/id6744279795) on the App Store, a slick little QR code generator designed for effortless networking.
 - 📫 How to reach me: hey [@] ak68a.co
