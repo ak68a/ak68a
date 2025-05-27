@@ -2,7 +2,7 @@
 
 #### I'm Alex – Lead Engineer at [Oversize Connect](https://apps.apple.com/us/app/oversize-connect/id6741709246), where I’m helping heavy haul truckers and pilot cars make more money faster and easier.
 
-My passion lies in crafting intuitive, high-performance iOS apps and backends that solve real-world problems. At Oversize Connect, I get to do exactly that — working at the intersection of logistics and tech to streamline a part of the industry most people never think about.
+My passion lies in crafting intuitive, high-performance iOS apps that solve real-world problems. At Oversize Connect, I get to do exactly that — working at the intersection of logistics and tech to streamline a part of the industry most people never think about.
 
 When I'm not deep in the API of things or fine-tuning UI transitions in SwiftUI, you’ll probably find me obsessing over clean architecture patterns or testing async flows in the wild. I’m all in on fintech — from crafting modern, SwiftUI-first architecture to designing delightful applications that move money fast. 
 
