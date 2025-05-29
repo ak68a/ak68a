@@ -1,12 +1,17 @@
-### Hi there 👋
+### Hi, I'm Alex 👋
 
-#### I'm Alex – Lead Engineer at [Oversize Connect](https://apps.apple.com/us/app/oversize-connect/id6741709246), where I’m helping heavy haul truckers and pilot cars make more money faster and easier.
+####  – Co-Founder & CTO at [Oversize Connect](https://apps.apple.com/us/app/oversize-connect/id6741709246) · Co-founder @ [Trio](https://trio.dev) · Builder of [AgendID}(https://github.com/ak68a/agentid-core) and [AgentPay](https://github.com/ak68a/agentpay-core).
 
-My passion lies in crafting intuitive, high-performance iOS apps that solve real-world problems. At Oversize Connect, I get to do exactly that — working at the intersection of logistics and tech to streamline a part of the industry most people never think about.
+I craft high-performance iOS apps and backend systems that move money, people, and data — fast. My work spans real-time logistics, agentic commerce, and fintech infrastructure:
 
-When I'm not deep in the API of things or fine-tuning UI transitions in SwiftUI, you’ll probably find me obsessing over clean architecture patterns or testing async flows in the wild. I’m all in on fintech — from crafting modern, SwiftUI-first architecture to designing delightful applications that move money fast. 
+- 📱 Built Oversize Connect, the go-to platform for heavy haul truckers and pilot cars
+- 🛠 Co-founded Trio, a fintech-native dev partner helping companies like PayPal, LendingClub, Empower & Apex ship faster
+- 🔐 Created AgentID and AgentPay, a Go + Solidity toolkit for secure agent identity — part of [Agent Commerce Kit](https://www.agentcommercekit.com)
 
-- 🚀 I recently launched [Qrty](https://apps.apple.com/us/app/qrty/id6744279795) on the App Store, a simple QR code generator designed for effortless networking.
-- 🧪 Currently experimenting with smart contract development on the [Radius Platform](https://radiustech.xyz)
-- 📫 How to reach me: hey [@] ak68a.co
-- ⚡ Fun fact: I once pushed a feature at 3 AM from a Walmart parking lot after some high-speed testing — still not sure if the coffee or adrenaline deserves the credit. 
+I'm obsessed with clean architecture, async flows, and systems that just work — from SwiftUI frontends to Solidity smart contracts.
+
+- 🚀 Recently launched [Qrty](https://apps.apple.com/us/app/qrty/id6744279795), a minimalist QR generator for effortless networking
+- 🧪 Experimenting with smart contracts on the Radius Platform
+- ⚡ Fun fact: once shipped a feature from a Walmart parking lot at 3AM — still unclear if it was coffee or adrenaline
+
+📫 hey [@] ak68a.co
