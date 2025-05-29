@@ -5,7 +5,7 @@
 I craft high-performance iOS apps and backend systems that move money, people, and data fast. My work spans real-time logistics, agentic commerce, and fintech infrastructure:
 
 - 📱 Built [Oversize Connect](https://apps.apple.com/us/app/oversize-connect/id6741709246), the go-to platform for heavy haul truckers and pilot cars
-- 🛠 Co-founded Trio, a fintech-native dev partner helping companies like PayPal, LendingClub, Empower & Apex ship faster
+- 🛠 Co-founded Trio, where I lead elite fintech engineering teams embedded in companies like PayPal, LendingClub, Empower & Apex
 - 🔐 Created [AgendID](https://github.com/ak68a/agentid-core) and [AgentPay](https://github.com/ak68a/agentpay-core), a Go + Solidity toolkit for secure agent identity — part of [Agent Commerce Kit](https://www.agentcommercekit.com)
 
 I'm obsessed with clean architecture, async flows, and systems that just work — from SwiftUI frontends to Solidity smart contracts.
