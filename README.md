@@ -1,8 +1,8 @@
 ### Hi, I'm Alex 👋
 
-####  – Co-Founder & CTO at [Oversize Connect](https://apps.apple.com/us/app/oversize-connect/id6741709246) · Co-founder @ [Trio](https://trio.dev) · Builder of [AgendID}(https://github.com/ak68a/agentid-core) and [AgentPay](https://github.com/ak68a/agentpay-core).
+#### Lead Engineer at [Oversize Connect](https://apps.apple.com/us/app/oversize-connect/id6741709246) · Co-founder @ [Trio](https://trio.dev) · Builder of [AgendID}(https://github.com/ak68a/agentid-core) and [AgentPay](https://github.com/ak68a/agentpay-core).
 
-I craft high-performance iOS apps and backend systems that move money, people, and data — fast. My work spans real-time logistics, agentic commerce, and fintech infrastructure:
+I craft high-performance iOS apps and backend systems that move money, people, and data fast. My work spans real-time logistics, agentic commerce, and fintech infrastructure:
 
 - 📱 Built Oversize Connect, the go-to platform for heavy haul truckers and pilot cars
 - 🛠 Co-founded Trio, a fintech-native dev partner helping companies like PayPal, LendingClub, Empower & Apex ship faster
