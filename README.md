@@ -1,6 +1,6 @@
 ### Hi, I'm Alex 👋
 
-#### Lead Engineer at Oversize Connect · Co-founder of Trio · Builder of AgentID and AgentPay.
+#### Lead Engineer at Oversize Connect · Co-founder of Trio · Fintech Nerd.
 
 I craft high-performance iOS apps and backend systems that move money, people, and data fast. My work spans real-time logistics, agentic commerce, and fintech infrastructure:
 
