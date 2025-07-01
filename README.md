@@ -1,16 +1,6 @@
-### Hi, I'm Alex 👋
+### 👋 Hi, I'm Alex — Fintech Engineer & Builder
 
-#### Lead Engineer
+Co-founder & CTO @ [**Trio**](http://trio.dev) — fintech-native partner helping teams build the future of finance.
 
-I craft high-performance iOS apps and study backend systems that move money, people, and data fast. My work spans real-time logistics and fintech infrastructure:
-
-- 📱 Built [Oversize Connect](https://apps.apple.com/us/app/oversize-connect/id6741709246), the go-to platform for heavy haul truckers and pilot cars
-
-I'm obsessed with clean architecture, async flows, and systems that just work — from SwiftUI frontends to Solidity smart contracts.
-
-- 🔐 Researching financial infrastructure for agent-based commerce and on-chain finance.
-- 🧪 Experimenting with smart contracts on the [Radius Platform](https://radiustech.xyz/)
-- 🚀 Recently launched [Qrty](https://apps.apple.com/us/app/qrty/id6744279795), a minimalist QR generator for effortless networking
-- ⚡ Fun fact: once shipped a feature from a Walmart parking lot at 3AM — still unclear if it was coffee or adrenaline
-
-📫 hey [@] ak68a.co
+Early engineer & advocate @ [**Catena Labs**](https://catenalabs.com) & [**Radius**](https://radiustech.xyz), building agent-native infra and programmable finance.
+Writing @ **Ledger Drift** — a newsletter for engineers shaping modern fintech.
