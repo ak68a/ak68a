@@ -1,6 +1,6 @@
 ### Hi, I'm Alex 👋
 
-#### Lead Engineer at Oversize Connect
+#### Lead Engineer
 
 I craft high-performance iOS apps and study backend systems that move money, people, and data fast. My work spans real-time logistics and fintech infrastructure:
 
